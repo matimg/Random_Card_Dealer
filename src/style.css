@@ -1,1 +1,15 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card {
+  height: 450px;
+  width: 250px;
+  border-radius: 15px;
+}
+.body {
+  margin-top: 80px;
+}
+.footer {
+  margin-top: 100px;
+}
+#footer {
+  transform: rotate(180deg);
+}
